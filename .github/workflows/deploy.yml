@@ -1,35 +1,39 @@
-# Shamelessly stolen from RadicalRedShowdown/damage-calc
-
-name: Deploy to Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-    - master
+      - master
+
+permissions:
+  contents: write
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [18.x]
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: Zarel/setup-node@patch-1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: Get short SHA
-      id: vars
-      shell: bash
-      run: |
-        echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
-    - name: Install and Build
-      run: |
-        npm install
-        node build
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4.3.4
-      with:
-        folder: dist
-        commit-message: "Deploy ${{ steps.vars.outputs.sha_short }}"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Main Dependencies
+        run: npm install
+
+      - name: Install Calc Dependencies
+        run: |
+          cd calc
+          npm install
+          cd ..
+
+      - name: Build Project
+        run: node build
+
+      - name: Deploy to gh-pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
