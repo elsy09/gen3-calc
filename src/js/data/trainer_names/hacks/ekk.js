@@ -49,14 +49,11 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	// Route 112 (South)
 	"Team Magma Grunt #1 @ Route 112",
 	"Team Magma Grunt #2 @ Route 112",
-	"Hiker Trent",
 	"Team Magma Grunt #3 @ Route 112",
 	// Route 112 (North)
 	"Team Magma Grunt #4 @ Route 112",
 	"Team Magma Grunt #5 @ Route 112",
 	// Route 111
-	"Black Belt Daisuke",
-	"Cooltrainer Brooke",
 	// Route 113
 	"Pokémon Trainer Red",
 	// Route 114
@@ -79,9 +76,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	// Jagged Pass
 	"Team Magma Grunt #1 @ Jagged Pass",
 	"Team Magma Grunt #2 @ Jagged Pass",
-	"Camper Ethan",
-	"Picnicker Diana",
-	"Triathlete Julio",
 	// Lavaridge Gym
 	"Kindler Jeff",
 	"Ruin Maniac Eli",
@@ -93,11 +87,12 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Expert Keegan",
 	"Leader Flannery",
 	//Route 111
-	"Camper Drew",
-	"Camper Beau",
-	"Picnicker Heidi",
-	"Picnicker Becky",
 	"Ruin Maniac Dusty",
+	"Pokémaniac Ken",
+	"Pokémon Ranger Heidi",
+	"Expert Beau",
+	"Camper Branden",
+	"Picnicker Celia",
 	// Petalburg Gym
 	"Triathlete Mary",
 	"Pokéfan Parker",
@@ -110,16 +105,12 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	// Route 118
 	"Fisherman Wade",
 	"Fisherman Barny",
-	"Bird Keeper Perry",
 	// Route 119
 	"Bird Keeper Hugh",
 	"Pokémon Ranger Catherine",
 	"Pokémon Ranger Jackson",
-	"Ninja Boy Yasu",
 	"Bird Keeper Phil",
 	"Parasol Lady Missy",
-	"Bug Maniac Darrin",
-	"Ninja Boy Takashi",
 	// Weather Institute
 	"Team Aqua Grunt #1 @ Weather Institute",
 	"Team Aqua Grunt #2 @ Weather Institute",
@@ -134,12 +125,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Pokémon Trainer Brendan #3 [Blaziken]",
 	"Pokémon Trainer Brendan #3 [Swampert]",
 	"Pokémon Trainer Brendan #3 [Sceptile]",
-	"Guitarist Beth",
-	"Ninja Boy Hideo",
-	// Route 120
-	"Bird Keeper Robert",
-	"Parasol Lady Clarissa",
-	"Ninja Boy Riley",
 	// Fortree Gym
 	"Pokémon Ranger Ashley",
 	"Bird Keeper Jared",
@@ -149,24 +134,11 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Dragon Tamer Sora",
 	"Leader Winona",
 	// Route 120
-	"Battle Girl Tara",
-	"Bird Keeper Colin",
 	"Cooltrainer Jerome",
-	"Ninja Boy Keigo",
-	"Parasol Lady Angelica",
 	"Cooltrainer Jennifer",
 	"Pokémon Ranger Jenna",
-	"Pokémon Ranger Lorenzo",
-	"Ruin Maniac Chip",
-	"Bug Maniac Jeffrey",
 	// Route 121
-	"Hex Maniac Tammy",
-	"Bug Maniac Ali",
-	"Beauty Jessica",
-	"Pokémon Breeder David",
-	"Sr And Jr Kate & Joy",
 	"Pokéfan Vanessa",
-	"Pokémon Breeder Nora",
 	"Cooltrainer Cristin",
 	"Cooltrainer Marcel",
 	"Gentleman Walter",
@@ -182,7 +154,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Team Aqua Grunt #2 @ Mt. Pyre",
 	"Team Aqua Grunt #3 @ Mt. Pyre",
 	"Team Aqua Grunt #4 @ Mt. Pyre",
-	"Hex Maniac Valerie",
 	"Team Aqua Grunt #5 @ Mt. Pyre",
 	"Team Aqua Grunt #6 @ Mt. Pyre",
 	"Team Aqua Grunt #7 @ Mt. Pyre",
@@ -203,6 +174,7 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Team Magma Grunt #10 @ Magma Hideout",
 	"Team Magma Grunt #11 @ Magma Hideout",
 	"Team Magma Grunt #12 @ Magma Hideout",
+	"Bird Keeper Billy #2",
 	"Team Magma Grunt #13 @ Magma Hideout",
 	"Team Magma Grunt #14 @ Magma Hideout",
 	"Team Magma Grunt #15 @ Magma Hideout",
@@ -211,6 +183,7 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Magma Leader Maxie #2",
 	// Aqua Hideout
 	"Team Aqua Grunt #1 @ Aqua Hideout",
+	"Team Aqua Grunt #9 @ Aqua Hideout",
 	"Team Aqua Grunt #2 @ Aqua Hideout",
 	"Team Aqua Grunt #3 @ Aqua Hideout",
 	"Team Aqua Grunt #4 @ Aqua Hideout",
@@ -223,11 +196,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Team Aqua Grunt #1 @ Route 124",
 	"Team Aqua Grunt #2 @ Route 124",
 	// Route 129
-	"Swimmerm Reed",
-	"Triathlete Chase",
-	"Triathlete Allison",
-	"Swimmerf Tisha",
-	"Swimmerm Clarence",
 	//Route 132
 	"Fisherman Ronald",
 	// Mossdeep Gym
@@ -280,6 +248,30 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Fisherman Wayne",
 	"Cooltrainer Ruben",
 	"Cooltrainer Alexa",
+	// The Winstrates
+	"Winstrate Victor",
+    "Winstrate Victoria",
+	"Winstrate Vivi",
+	"Winstrate Vicky",
+	// Route 123
+	"Psychic Cameron",
+    "Aroma Lady Violet",
+    "Guitarist Fernando",
+    "Parasol Lady Kayley",
+    "Bug Maniac Davis",
+	"Cooltrainer Wendy",
+    "Cooltrainer Braxton",
+    "Ninja Boy Jonas",
+    "Collector Ed",
+    "Psychic Jacki",
+    "Cooltrainer Jazmyn",
+    "Expert Frederick",
+    "Old Couple Miu & Yuki",
+	// Aqua Hideout
+	"Hex Maniac Celine",
+	"Guitarist Eddie",
+	"Kindler Cole",
+	"Winstrate Vito",
 	// Victory Road
 	"Champion Symes",
 	"Champion ALB",

@@ -4259,7 +4259,7 @@ const EK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
     expYield: 111,
   },
   Crawdaunt: {
-    abilities: { 0: "Shell Armor" },
+    abilities: { 0: "Hyper Cutter" },
     bs: { hp: 63, at: 120, df: 85, sa: 90, sd: 55, sp: 55 },
     expYield: 161,
   },
@@ -4702,6 +4702,16 @@ const EK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
 const EK: { [name: string]: SpeciesData } = extend(true, {}, ADV, EK_PATCH);
 
 const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
+  Blaziken: {
+    abilities: { 0: "Blaze" },
+    bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 95 },
+    expYield: 209,
+  },
+  Girafarig: {
+    abilities: { 0: "Inner Focus" },
+    bs: { hp: 100, at: 90, df: 70, sa: 105, sd: 70, sp: 85 },
+    expYield: 149,
+  },
   Machamp: {
     abilities: { 0: "Guts" },
     bs: { hp: 90, at: 130, df: 80, sa: 65, sd: 85, sp: 65 },
@@ -4716,6 +4726,11 @@ const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
     abilities: { 0: "Insomnia" },
     bs: { hp: 100, at: 125, df: 52, sa: 105, sd: 52, sp: 91 },
     expYield: 107,
+  },
+  Piloswine: {
+    abilities: { 0: "Thick Fat" },
+    bs: { hp: 110, at: 130, df: 80, sa: 70, sd: 60, sp: 80 },
+    expYield: 160,
   },
   Sneasel: {
     abilities: { 0: "Inner Focus" },
@@ -4757,15 +4772,13 @@ const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
   Ariados: { abilities: { 0: "Swarm" } },
   Natu: { abilities: { 0: "Synchronize" } },
   Xatu: { abilities: { 0: "Synchronize" } },
-  Girafarig: { abilities: { 0: "Inner Focus" } },
   Entei: { abilities: { 0: "Serene Grace" } },
   Spinda: { abilities: { 0: "Inner Focus" } },
-  Torkoal: { abilities: { 0: "Shell Armor" } },
   Cacturne: { abilities: { 0: "Chlorophyll" } },
+  Crawdaunt: { abilities: { 0: "Hyper Cutter" } },
   Dusclops: { abilities: { 0: "Keen Eye" } },
   Beldum: { abilities: { 0: "Battle Armor" } },
   Metang: { abilities: { 0: "Battle Armor" } },
-  Metagross: { abilities: { 0: "Battle Armor" } },
   Kyogre: { abilities: { 0: "Torrent" } },
   Rayquaza: { abilities: { 0: "Intimidate" } },
 };
