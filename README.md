@@ -1,7 +1,8 @@
 # Lynn's Pokémon Damage Calculator
 This calculator is a fork of Smogon's damage calculator, modified by the lovely anastarawneh for the express purpose of Nuzlockes, and this version attempts to continue that mission, with a focus on pretty user interface and optimisation for multiple hack games.
 
-I will not succumb to settling for the old showdown calc. A calculator shall be my canvas, and art is what will be made.
+I will not succumb to settling for the old showdown calc. A calculator shall be my canvas, and art is what will be made. 
+:D
 
 ## Features
 
