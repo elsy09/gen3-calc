@@ -8401,7 +8401,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Team Aqua Grunt #9 @ Aqua Hideout": {
             level: 70,
             item: "Quick Claw",
-            moves: ["Ancient Power", "Metronome", "Waterfall", "Soft-boiled"],
+            moves: ["Ancient Power", "Metronome", "Waterfall", "Soft-Boiled"],
             nature: "Impish",
         },
 		"Sr And Jr Kim & Iris": {
