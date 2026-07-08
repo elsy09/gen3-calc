@@ -759,7 +759,7 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Water Spout",
 				"Earthquake",
 				"Ice Beam",
-				"Hidden Power Electric",
+				"Thunder",
 			],
 		},
 		"Pokémon Trainer Brendan #4 [Blaziken]": {
@@ -6685,37 +6685,37 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Pokémon Trainer May #3 [Blaziken]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Impish",
 		},
 		"Pokémon Trainer May #3 [Sceptile]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Impish",
 		},
 		"Pokémon Trainer May #3 [Swampert]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Impish",
 		},
 		"Pokémon Trainer Brendan #3 [Blaziken]": {
 			item: "Lum Berry",
 			level: 53,
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Brave",
 		},
 		"Pokémon Trainer Brendan #3 [Sceptile]": {
 			item: "Lum Berry",
 			level: 53,
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Brave",
 		},
 		"Pokémon Trainer Brendan #3 [Swampert]": {
 			item: "Lum Berry",
 			level: 53,
-			moves: ["Thunder", "Surf", "Signal Beam", "Rain Dance"],
+			moves: ["Thunder", "Surf", "Signal Beam", "Petal Dance"],
 			nature: "Brave",
 		},
 		"Pokémon Ranger Ashley": {
