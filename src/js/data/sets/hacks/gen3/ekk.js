@@ -3751,7 +3751,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Aqua Admin Shelly #1": {
 			level: 54,
 			item: "Leftovers",
-			moves: ["Hypnosis", "Psychic", "Signal Beam", "Fire Punch"],
+			moves: ["Hypnosis", "Psychic", "Signal Beam", "Thunder Punch"],
 			nature: "Bold",
 		},
 		"Team Aqua Grunt #9 @ Mt. Pyre": {
