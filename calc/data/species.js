@@ -4766,7 +4766,7 @@ var EKK_PATCH = {
     },
     Sneasel: {
         abilities: { 0: "Inner Focus" },
-        bs: { hp: 70, at: 120, df: 64, sa: 45, sd: 85, sp: 125 },
+        bs: { hp: 70, at: 120, df: 65, sa: 45, sd: 85, sp: 125 },
         expYield: 132
     },
     Tyranitar: {
