@@ -4479,7 +4479,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Team Aqua Grunt #2 @ Aqua Hideout": {
 			level: 67,
 			item: "Scope Lens",
-			moves: ["Grass Whistle", "Thunder", "Ice Beam", "Surf"],
+			moves: ["Grass Whistle", "Thunder", "Ice Beam", "Waterfall"],
 			nature: "Brave",
 		},
 		"Team Aqua Grunt #5 @ Aqua Hideout": {
@@ -8454,7 +8454,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		},
 		"Champion ALB": {
 			level: 100,
-			item: "White Herb",
+			item: "Salac Berry",
 			moves: ["Explosion", "Overheat", "Earthquake", "Solar Beam"],
 			nature: "Calm",
 		},
