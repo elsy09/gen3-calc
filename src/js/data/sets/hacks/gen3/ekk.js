@@ -8658,7 +8658,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 51,
 			item: "Silk Scarf",
 			moves: ["Facade", "Earthquake", "Return", "Brick Break"],
-			nature: "Jolly",
+			nature: "Gentle",
 		},
 		"Team Aqua Grunt #4 @ Weather Institute": {
 			level: 53,
@@ -8892,7 +8892,7 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Gunk Shot",
 				"Leaf Blade",
 			],
-			nature: "Lonely",
+			nature: "Lax",
 		},
 		"Team Magma Grunt #4 @ Magma Hideout": {
 			level: 64,
