@@ -780,7 +780,7 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Water Spout",
 				"Mirror Coat",
 				"Ice Beam",
-				"Hidden Power Electric",
+				"Thunder",
 			],
 			nature: "Modest",
 		},
@@ -1461,19 +1461,19 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Pokémon Trainer May #3 [Swampert]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Water Pulse", "Body Slam", "Ice Beam"],
+			moves: ["Thunder", "Water Pulse", "Return", "Ice Beam"],
 			nature: "Rash",
 		},
 		"Pokémon Trainer May #3 [Blaziken]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Hidden Power Water", "Body Slam", "Ice Beam"],
+			moves: ["Thunder", "Hidden Power Water", "Return", "Ice Beam"],
 			nature: "Rash",
 		},
 		"Pokémon Trainer May #3 [Sceptile]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Hidden Power Water", "Body Slam", "Ice Beam"],
+			moves: ["Thunder", "Hidden Power Water", "Return", "Ice Beam"],
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #6 @ Mt. Pyre": {
@@ -2613,7 +2613,7 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Hydro Pump",
 				"Ice Beam",
 				"Earthquake",
-				"Hidden Power Electric",
+				"Thunder",
 			],
 		},
 		"Pokémon Trainer May #4 [Sceptile]": {
@@ -8104,7 +8104,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Pokémon Trainer Brendan #3 [Swampert]": {
 			item: "Lum Berry",
 			level: 54,
-			moves: ["Muddy Water", "Earthquake", "Ice Beam", "Sludge Bomb"],
+			moves: ["Muddy Water", "Earthquake", "Blizzard", "Gunk Shot"],
 			nature: "Lonely",
 		},
 		"Pokémon Trainer Brendan #4 [Swampert]": {
