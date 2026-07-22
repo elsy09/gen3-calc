@@ -1903,7 +1903,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Hex Maniac Celine": {
             level: 97,
             item: "Leftovers",
-            moves: ["Sky Attack", "Double-Edge", "Supepower", "Swords Dance"],
+            moves: ["Sky Attack", "Double-Edge", "Superpower", "Swords Dance"],
         },
 	},
 	Donphan: {
