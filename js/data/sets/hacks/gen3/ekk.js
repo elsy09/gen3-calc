@@ -128,7 +128,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 65,
 			item: "Scope Lens",
 			moves: ["Psychic", "Fire Punch", "Ice Punch", "Thunder Punch"],
-			nature: "Adamant",
+			nature: "Hasty",
 		},
 		"Gentleman Nate": {
 			level: 69,
@@ -143,7 +143,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Gentle",
 		},
 		"Old Couple Miu & Yuki": {
-            level: 94,
+            level: 95,
             item: "Lum Berry",
             moves: ["Skill Swap", "Psychic", "Thunder Punch", "Ice Punch"],
             nature: "Careful",
@@ -217,7 +217,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 65,
 			item: "Bright Powder",
 			moves: ["Draco Meteor", "Solar Beam", "Flamethrower", "Ice Beam"],
-			nature: "Sassy",
+			nature: "Bold",
 		},
 		"Team Magma Grunt #15 @ Magma Hideout": {
 			level: 67,
@@ -474,7 +474,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hasty",
 		},
 		"Kindler Cole": {
-            level: 97,
+            level: 98,
             item: "Silk Scarf",
             moves: ["Fire Blast", "Extreme Speed", "Hidden Power Grass", "Morning Sun"],
             nature: "Adamant",
@@ -601,6 +601,12 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 34,
 			moves: ["Body Slam", "Waterfall", "Ice Beam", "Double-Edge"],
 			nature: "Lonely",
+		},
+		"Leader #2 Juan": {
+			level: 77,
+			item: "Choice Band",
+			moves: ["Double-Edge", "Superpower", "Hidden Power Bug"],
+			nature: "Calm",
 		},
 	},
 	Bagon: {
@@ -1119,7 +1125,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Quiet",
 		},
 		"Parasol Lady Kayley": {
-            level: 94,
+            level: 95,
             item: "Lum Berry",
             moves: ["Hydro Pump", "Ice Beam", "Thunder", "Toxic"],
             nature: "Jolly",
@@ -1169,12 +1175,6 @@ var CUSTOMHACKSETDEX_EKK = {
 			item: "Lum Berry",
 			moves: ["Thunder", "Ice Beam", "Weather Ball Water", "Hidden Power Grass"],
 			nature: "Sassy",
-		},
-		"Leader #2 Juan": {
-			level: 76,
-			item: "Lum Berry",
-			moves: ["Weather Ball Water", "Ice Beam", "Thunder", "Hidden Power Grass"],
-			nature: "Modest",
 		},
 		"Cooltrainer Jennifer": {
 			level: 61,
@@ -1427,7 +1427,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Earthquake", "Psychic", "Ice Beam", "Shadow Ball"],
 		},
 		"Psychic Jacki": {
-            level: 92,
+            level: 93,
             item: "Leftovers",
             moves: ["Earthquake", "Psychic", "Signal Beam", "Explosion"],
             nature: "Modest",
@@ -1715,7 +1715,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			],
 		},
 		"Cooltrainer Jazmyn": {
-            level: 93,
+            level: 94,
             item: "Lum Berry",
             moves: ["Toxic", "Shadow Ball", "Air Slash", "Hidden Power Ground"],
             nature: "Gentle",
@@ -1895,10 +1895,15 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Relaxed",
 		},
 		"Cooltrainer Wendy": {
-            level: 95,
+            level: 96,
             item: "Sharp Beak",
             moves: ["Drill Peck", "Double-Edge", "Quick Attack", "Hidden Power Ground"],
             nature: "Hasty",
+        },
+		"Hex Maniac Celine": {
+            level: 97,
+            item: "Leftovers",
+            moves: ["Sky Attack", "Double-Edge", "Supepower", "Swords Dance"],
         },
 	},
 	Donphan: {
@@ -2240,12 +2245,6 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Thunder", "Cross Chop", "Ice Punch", "Psychic"],
 			nature: "Naughty",
 		},
-		"Guitarist Eddie": {
-            level: 97,
-            item: "Black Belt",
-            moves: ["Thunderbolt", "Hidden Power Grass", "Dynamic Punch", "Ice Punch"],
-            nature: "Naive",
-        },
 	},
 	Electrode: {
 		"Collector Shawn": {
@@ -2286,10 +2285,16 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Guitarist Fernando": {
-            level: 93,
+            level: 94,
             item: "Liechi Berry",
             moves: ["Thunder", "Reflect", "Explosion", "Endure"],
             nature: "Quiet",
+        },
+		"Guitarist Eddie": {
+            level: 98,
+            item: "Liechi Berry",
+            moves: ["Thunder", "Hidden Power Grass", "Explosion", "Endure"],
+            nature: "Adamant",
         },
 		"Not Champion Story": {
 			level: 100,
@@ -2513,7 +2518,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Guitarist Fernando": {
-            level: 93,
+            level: 94,
             item: "Leftovers",
             moves: ["Hyper Voice", "Earthquake", "Overheat", "Extrasensory"],
             nature: "Hasty",
@@ -2757,7 +2762,7 @@ var CUSTOMHACKSETDEX_EKK = {
             nature: "Lax",
         },
 		"Old Couple Miu & Yuki": {
-            level: 95,
+            level: 96,
             item: "Soft Sand",
             moves: ["Earth Power", "Ancient Power", "Signal Beam", "Giga Drain"],
             nature: "Sassy",
@@ -2887,6 +2892,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 65,
 			item: "Scope Lens",
 			moves: ["Giga Drain", "Fire Punch", "Thunderbolt", "Ice Punch"],
+			nature: "Naive",
 		},
 		"Team Magma Grunt #12 @ Magma Hideout": {
 			level: 66,
@@ -2933,22 +2939,22 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Thunderbolt", "Ice Punch", "Giga Drain", "Fire Punch"],
 		},
 		"Guitarist Fernando": {
-            level: 92,
+            level: 93,
             item: "Lum Berry",
             moves: ["Gunk Shot", "Thunder", "Ice Punch", "Fire Punch"],
             nature: "Modest",
         },
 		"Old Couple Miu & Yuki": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["Skill Swap", "Thunder", "Psychic", "Ice Punch"],
             nature: "Impish",
         },
 		"Hex Maniac Celine": {
-            level: 96,
+            level: 97,
             item: "Poison Barb",
-            moves: ["Gunk Shot", "Thunderbolt", "Fire Punch", "Ice Punch"],
-            nature: "Naive",
+            moves: ["Gunk Shot", "Thunderbolt", "Fire Punch", "Explosion"],
+            nature: "Jolly",
         },
 		"Youngster Ray04": {
 			level: 100,
@@ -3003,10 +3009,10 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Hex Maniac Celine": {
-            level: 96,
+            level: 97,
             item: "Twisted Spoon",
             moves: ["Double-Edge", "Psychic", "Thunderbolt", "Ice Beam"],
-            nature: "Naughty",
+            nature: "Gentle",
         },
 	},
 	Glalie: {
@@ -3276,7 +3282,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Adamant",
 		},
 		"Kindler Cole": {
-            level: 98,
+            level: 99,
             item: "Leftovers",
             moves: ["Frustration", "Earthquake", "Crunch", "Super Fang"],
         },
@@ -3354,7 +3360,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Psychic Cameron": {
-            level: 92,
+            level: 93,
             item: "Leftovers",
             moves: ["Reflect", "Psychic", "Fire Punch", "Thunder Punch"],
             nature: "Calm",
@@ -3419,7 +3425,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lax",
 		},
 		"Cooltrainer Wendy": {
-            level: 94,
+            level: 95,
             item: "Silk Scarf",
             moves: ["Hidden Power Flying", "Double-Edge", "Fire Blast", "Hydro Pump"],
             nature: "Timid",
@@ -3532,13 +3538,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Rock Slide", "X-scissors", "Double-Edge", "Brick Break"],
 		},
 		"Bug Maniac Davis": {
-            level: 94,
+            level: 95,
             item: "Silver Powder",
             moves: ["Megahorn", "Brick Break", "Facade", "Protect"],
             nature: "Timid",
         },
 		"Expert Frederick": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["Earthquake", "Megahorn", "Brick Break", "Facade"],
             nature: "Bold",
@@ -3639,9 +3645,10 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	"Celebi": {
 		"Hex Maniac Celine": {
-            level: 95,
+            level: 96,
             item: "Miracle Seed",
             moves: ["Giga Drain", "Psychic", "Ancient Power", "Hidden Power Fire"],
+			nature: "Lax",
         },
 	},
 	Horsea: {
@@ -3924,10 +3931,10 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Lovely Kiss", "Ice Beam", "Psychic", "Fake Out"],
 		},
 		"Guitarist Eddie": {
-            level: 96,
+            level: 97,
             item: "Lum Berry",
-            moves: ["Psycho Boost", "Blizzard", "Lovely Kiss", "Perish Song"],
-            nature: "Impish",
+            moves: ["Psycho Boost", "Blizzard", "Sing", "Calm Mind"],
+            nature: "Modest",
         },
 	},
 	Kabuto: {
@@ -4120,7 +4127,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Psychic Jacki": {
-            level: 92,
+            level: 93,
             item: "Lum Berry",
             moves: ["Octazooka", "Draco Meteor", "Ice Beam", "Frustration"],
             nature: "Relaxed",
@@ -4243,7 +4250,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 77,
 			item: "Lum Berry",
 			moves: ["Hydro Pump", "Thunder", "Ice Beam", "Hidden Power Grass"],
-			nature: "Quiet",
+			nature: "Impish",
 		},
 		"Fisherman Ronald": {
 			level: 66,
@@ -4251,10 +4258,10 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Confuse Ray", "Thunder Wave", "Hydro Pump", "Thunderbolt"],
 		},
 		"Guitarist Eddie": {
-            level: 96,
+            level: 97,
             item: "Leftovers",
             moves: ["Hydro Pump", "Thunder", "Blizzard", "Protect"],
-            nature: "Naive",
+            nature: "Rash",
         },
 		"Champion amymae": {
 			level: 100,
@@ -4513,14 +4520,15 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 76,
 			item: "Lum Berry",
 			moves: ["Hydro Pump", "Giga Drain", "Thunder", "Ice Beam"],
+			nature: "Lax",
 		},
 		"Guitarist Fernando": {
-            level: 93,
+            level: 94,
             item: "Leftovers",
             moves: ["Giga Drain", "Thunder", "Surf", "Ice Beam"],
         },
 		"Guitarist Eddie": {
-            level: 96,
+            level: 97,
             item: "Lum Berry",
             moves: ["Giga Drain", "Waterfall", "Thunder", "Rain Dance"],
             nature: "Timid",
@@ -4629,9 +4637,9 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Kindler Cole": {
-            level: 99,
+            level: 100,
             item: "Salac Berry",
-            moves: ["Cross Chop", "Fire Blast", "Earthquake", "Bulk Up"],
+            moves: ["Cross Chop", "Shadow Punch", "Earthquake", "Bulk Up"],
             nature: "Lax",
         },
 		"Elite Four Sidney": {
@@ -4934,7 +4942,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Modest",
 		},
 		"Cooltrainer Wendy": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["Hydro Pump", "Ice Beam", "Hidden Power Grass", "Confuse Ray"],
             nature: "Rash",
@@ -5000,13 +5008,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Gentle",
 		},
 		"Cooltrainer Braxton": {
-            level: 94,
+            level: 95,
             item: "Thick Club",
             moves: ["Protect", "Earthquake", "Ancient Power", "Hidden Power Bug"],
             nature: "Careful",
         },
 		"Kindler Cole": {
-            level: 97,
+            level: 98,
             item: "Thick Club",
             moves: ["Earthquake", "Rock Slide", "Double-Edge", "Superpower"],
         },
@@ -5061,7 +5069,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Hydro Pump", "Signal Beam", "Ice Beam", "Giga Drain"],
 		},
 		"Bug Maniac Davis": {
-            level: 95,
+            level: 96,
             item: "Lum Berry",
             moves: ["Hydro Pump", "Ice Beam", "Giga Drain", "Stun Spore"],
             nature: "Jolly",
@@ -5236,7 +5244,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Aroma Lady Violet": {
-            level: 90,
+            level: 91,
             item: "Miracle Seed",
             moves: ["Giga Drain", "Ancient Power", "Light Screen", "Reflect"],
             nature: "Modest",
@@ -5298,7 +5306,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Psychic Jacki": {
-            level: 92,
+            level: 93,
             item: "Metal Coat",
             moves: ["Earthquake", "Meteor Mash", "Ice Punch", "Thunder Punch"],
         },
@@ -5344,7 +5352,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	Mew: {
 		"Team Aqua Grunt #9 @ Aqua Hideout": {
             level: 70,
-            item: "Leftovers",
+            item: "Lum Berry",
             moves: ["Hydro Pump", "Psychic", "Superpower", "Calm Mind"],
             nature: "Careful",
         },
@@ -5611,7 +5619,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Modest",
 		},
 		"Collector Ed": {
-            level: 92,
+            level: 93,
             item: "Lum Berry",
             moves: ["Psychic", "Thunder", "Fire Punch", "Calm Mind"],
             nature: "Relaxed",
@@ -5907,7 +5915,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Impish",
 		},
 		"Hex Maniac Celine": {
-            level: 95,
+            level: 96,
             item: "Lum Berry",
             moves: ["Overheat", "Hidden Power Ice", "Hypnosis", "Attract"],
             nature: "Quiet",
@@ -5937,7 +5945,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Old Couple Miu & Yuki": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["X-scissors", "Shadow Ball", "Hidden Power Ground", "Swords Dance"],
             nature: "Jolly",
@@ -6459,7 +6467,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Collector Ed": {
-            level: 92,
+            level: 93,
             item: "Leftovers",
             moves: ["Double-Edge", "Thunder", "Psychic", "Protect"],
         },
@@ -6621,7 +6629,7 @@ var CUSTOMHACKSETDEX_EKK = {
             nature: "Lonely",
         },
 		"Parasol Lady Kayley": {
-            level: 93,
+            level: 94,
             item: "Poison Barb",
             moves: ["Destiny Bond", "Sludge Bomb", "Rain Dance", "Shadow Ball"],
             nature: "Quiet",
@@ -6749,7 +6757,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Cooltrainer Braxton": {
-            level: 95,
+            level: 96,
             item: "Magnet",
             moves: ["Thunderbolt", "Sing", "Petal Dance", "Extreme Speed"],
         },
@@ -6967,7 +6975,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Careful",
 		},
 		"Cooltrainer Braxton": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["Protect", "Earthquake", "Ancient Power", "Megahorn"],
         },
@@ -7070,7 +7078,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Quiet",
 		},
 		"Cooltrainer Jazmyn": {
-            level: 93,
+            level: 94,
             item: "Dragon Fang",
             moves: ["Flamethrower", "Air Slash", "Dragon Claw", "Crunch"],
             nature: "Impish",
@@ -7207,7 +7215,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Modest",
 		},
 		"Bug Maniac Davis": {
-            level: 94,
+            level: 95,
             item: "Salac Berry",
             moves: ["X-scissors", "Hidden Power Rock", "Reversal", "Substitute"],
             nature: "Lax",
@@ -7242,7 +7250,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["X-scissors", "Hidden Power Rock", "Air Slash"],
 		},
 		"Ninja Boy Jonas": {
-            level: 90,
+            level: 91,
             item: "Silver Powder",
             moves: ["X-scissors", "Air Slash", "Brick Break", "Protect"],
             nature: "Calm",
@@ -7469,7 +7477,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Spikes", "Sky Attack", "Flash Cannon", "Hidden Power Ground"],
 		},
 		"Psychic Jacki": {
-            level: 93,
+            level: 94,
             item: "Quick Claw",
             moves: ["Spikes", "Recover", "Drill Peck", "Flash Cannon"],
             nature: "Brave",
@@ -7521,7 +7529,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hasty",
 		},
         "Old Couple Miu & Yuki": {
-            level: 94,
+            level: 95,
             item: "Leftovers",
             moves: ["Crush Claw", "Superpower", "Shadow Ball", "Aerial Ace"],
             nature: "Naive",
@@ -7593,7 +7601,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Hex Maniac Celine": {
-            level: 95,
+            level: 96,
             item: "Leftovers",
             moves: ["Hydro Pump", "Psychic", "Fire Blast", "Ice Beam"],
             nature: "Sassy",
@@ -7645,8 +7653,8 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Team Magma Grunt #8 @ Magma Hideout": {
 			level: 65,
 			item: "Leftovers",
-			moves: ["Spore", "Tail Glow", "Substitute", "Baton Pass"],
-			nature: "Jolly",
+			moves: ["Tail Glow", "Substitute", "Baton Pass"],
+			nature: "Gentle",
 		},
 		"Team Magma Grunt #11 @ Magma Hideout": {
 			level: 66,
@@ -7734,7 +7742,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hasty",
 		},
 		"Expert Frederick": {
-            level: 94,
+            level: 95,
             item: "Leftovers",
             moves: ["Facade", "Earthquake", "Shadow Ball", "Slack Off"],
             nature: "Relaxed",
@@ -7825,13 +7833,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Adamant",
 		},
 		"Psychic Cameron": {
-            level: 92,
+            level: 93,
             item: "Leftovers",
             moves: ["Light Screen", "Ancient Power", "Earth Power", "Shadow Ball"],
             nature: "Mild",
         },
 		"Kindler Cole": {
-            level: 98,
+            level: 99,
             item: "Lum Berry",
             moves: ["Ancient Power", "Psychic", "Fire Blast", "Earthquake"],
             nature: "Sassy",
@@ -7923,7 +7931,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Old Couple Miu & Yuki": {
-            level: 95,
+            level: 96,
             item: "Lum Berry",
             moves: ["Skill Swap", "Psychic", "Hydro Pump", "Thunder"],
             nature: "Mild",
@@ -7941,7 +7949,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hasty",
 		},
 		"Guitarist Fernando": {
-            level: 92,
+            level: 93,
             item: "Mystic Water",
             moves: ["Waterfall", "Psychic", "Ice Beam", "Thunderbolt"],
             nature: "Brave",
@@ -7998,10 +8006,10 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Sassy",
 		},
 		"Guitarist Eddie": {
-            level: 97,
+            level: 98,
             item: "Soft Sand",
-            moves: ["Earthquake", "Iron Tail", "Head Smash", "Self-Destruct"],
-            nature: "Rash",
+            moves: ["Earthquake", "Iron Tail", "Head Smash", "Explosion"],
+            nature: "Gentle",
         },
 	},
 	Sudowoodo: {
@@ -8214,13 +8222,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Quiet",
 		},
 		"Psychic Jacki": {
-            level: 93,
+            level: 94,
             item: "Lum Berry",
             moves: ["Air Slash", "Double-Edge", "Superpower", "Quick Attack"],
             nature: "Modest",
         },
 		"Cooltrainer Jazmyn": {
-            level: 94,
+            level: 95,
             item: "Silk Scarf",
             moves: ["Toxic", "Air Slash", "Facade", "Hidden Power Ground"],
             nature: "Mild",
@@ -8491,7 +8499,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Air Slash", "Earthquake", "Giga Drain", "Synthesis"],
 		},
 		"Kindler Cole": {
-            level: 99,
+            level: 100,
             item: "Bright Powder",
             moves: ["Leaf Blade", "Air Slash", "Ancient Power", "Earthquake"],
         },
@@ -8505,8 +8513,8 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Team Magma Grunt #8 @ Magma Hideout": {
 			level: 65,
 			item: "King's Rock",
-			moves: ["Heat Wave", "Thunder Punch", "Solar Beam", "Earthquake"],
-			nature: "Rash",
+			moves: ["Flamethrower", "Thunder Punch", "Solar Beam", "Earth Power"],
+			nature: "Brave",
 		},
 		"Team Magma Grunt #2 @ Mossdeep Space Center": {
 			level: 73,
@@ -8678,7 +8686,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Expert Frederick": {
-            level: 94,
+            level: 95,
             item: "Leftovers",
             moves: ["Facade", "Earthquake", "Hidden Power Ghost", "Toxic"],
             nature: "Adamant",
@@ -8723,7 +8731,6 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 77,
 			item: "Lum Berry",
 			moves: ["Sing", "Ice Beam", "Hydro Pump", "Hidden Power Grass"],
-			nature: "Timid",
 		},
 		"Champion Bokk": {
 			level: 100,
@@ -8763,7 +8770,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Relaxed",
 		},
 		"Aroma Lady Violet": {
-            level: 94,
+            level: 95,
             item: "Quick Claw",
             moves: ["Sleep Powder", "Signal Beam", "Psychic", "Gunk Shot"],
             nature: "Lax",
@@ -8996,7 +9003,6 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Weather Ball Fire",
 				"Sleep Powder",
 			],
-			nature: "Mild",
 		},
 		"Champion JakkyShane": {
 			level: 100,
@@ -9222,7 +9228,7 @@ var CUSTOMHACKSETDEX_EKK = {
             nature: "Lonely",
         },
 		"Ninja Boy Jonas": {
-            level: 94,
+            level: 95,
             item: "Salac Berry",
             moves: ["Fire Blast", "Gunk Shot", "Shadow Ball", "Destiny Bond"],
         },
@@ -9296,7 +9302,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Earthquake", "Muddy Water", "Ancient Power", "Ice Beam"],
 		},
 		"Parasol Lady Kayley": {
-            level: 93,
+            level: 94,
             item: "Leftovers",
             moves: ["Earth Power", "Hydro Pump", "Ice Beam", "Rain Dance"],
             nature: "Lonely",
@@ -9332,10 +9338,10 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Guitarist Eddie": {
-            level: 97,
+            level: 98,
             item: "Choice Band",
             moves: ["Explosion"],
-            nature: "Lonely",
+            nature: "Adamant",
         },
 	},
 	Wingull: {
@@ -9425,12 +9431,6 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Counter", "Mirror Coat", "Safeguard", "Destiny Bond"],
 			nature: "Timid",
 		},
-		"Hex Maniac Celine": {
-            level: 96,
-            item: "Leftovers",
-            moves: ["Mirror Coat", "Destiny Bond"],
-            nature: "Calm",
-        },
 	},
 	Wooper: {
 		"Fisherman Elliot": {
