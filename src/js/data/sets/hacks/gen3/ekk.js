@@ -1904,6 +1904,7 @@ var CUSTOMHACKSETDEX_EKK = {
             level: 97,
             item: "Leftovers",
             moves: ["Sky Attack", "Double-Edge", "Superpower", "Swords Dance"],
+			nature: "Docile",
         },
 	},
 	Donphan: {
