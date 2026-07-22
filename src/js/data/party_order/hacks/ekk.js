@@ -1363,10 +1363,10 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	"Leader #2 Juan": [
 		"Kingdra",
 		"Lapras",
-		"Castform-Rainy",
-		"Lanturn",
-		"Ludicolo",
 		"Vaporeon",
+		"Lanturn",
+		"Azumarill",
+		"Ludicolo",
 	],
 	// Meteor Falls
 	"Old Couple John & Jay": ["Aerodactyl", "Tauros"],
@@ -1434,19 +1434,19 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	// Aqua Hideout
 	"Hex Maniac Celine": [
 		"Ninetales",
-		"Wobbuffet",
+		"Dodrio",
 		"Girafarig",
+        "Gengar",
 		"Celebi",
 		"Slowking",
-		"Gengar",
 	],
 	"Guitarist Eddie": [
-		"Electabuzz",
-		"Jynx",
-		"Wigglytuff",
+		"Electrode",
 		"Steelix",
-		"Ludicolo",
+		"Jynx",
 		"Lanturn",
+		"Ludicolo",
+		"Wigglytuff",
 	],
 	"Kindler Cole": [
 		"Arcanine",

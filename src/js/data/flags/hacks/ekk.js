@@ -414,6 +414,7 @@ var CUSTOMHACKFLAGS_EKK = {
 		"Leader Winona",
 		"Sr And Jr Kate & Joy",
 		"Team Aqua Grunt #1 @ Mt. Pyre",
+		"Team Magma Grunt #8 @ Magma Hideout",
 		"Team Aqua Grunt #2 @ Aqua Hideout",
 		"Team Aqua Grunt #1 @ Route 124",
 		"Team Aqua Grunt #2 @ Route 124",
