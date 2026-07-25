@@ -1363,8 +1363,8 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	"Leader #2 Juan": [
 		"Kingdra",
 		"Lapras",
-		"Vaporeon",
 		"Lanturn",
+		"Vaporeon",
 		"Azumarill",
 		"Ludicolo",
 	],

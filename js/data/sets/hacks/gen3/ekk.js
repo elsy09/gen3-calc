@@ -4251,7 +4251,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 77,
 			item: "Lum Berry",
 			moves: ["Hydro Pump", "Thunder", "Ice Beam", "Hidden Power Grass"],
-			nature: "Impish",
+			nature: "Naughty",
 		},
 		"Fisherman Ronald": {
 			level: 66,
@@ -8732,6 +8732,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 77,
 			item: "Lum Berry",
 			moves: ["Sing", "Ice Beam", "Hydro Pump", "Hidden Power Grass"],
+			nature: "Impish",
 		},
 		"Champion Bokk": {
 			level: 100,
