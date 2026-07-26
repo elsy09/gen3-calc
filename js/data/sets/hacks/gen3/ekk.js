@@ -6645,7 +6645,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 100,
 			item: "Lum Berry",
 			moves: ["Hydro Pump", "Gunk Shot", "Explosion"],
-			nature: "Impish",
+			nature: "Gentle",
 		},
 	},
 	Quilava: {
