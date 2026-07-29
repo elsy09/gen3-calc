@@ -605,7 +605,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Leader #2 Juan": {
 			level: 77,
 			item: "Choice Band",
-			moves: ["Double-Edge", "Superpower", "Hidden Power Bug"],
+			moves: ["Double-Edge", "Superpower", "Hidden Power Bug", "Water Gun"],
 			nature: "Calm",
 		},
 	},
@@ -2030,7 +2030,7 @@ var CUSTOMHACKSETDEX_EKK = {
 				"Hidden Power Flying",
 				"Thunder",
 			],
-			nature: "Relaxed",
+			nature: "Careful",
 		},
 		"Aqua Leader Archie": {
 			level: 76,
@@ -3647,7 +3647,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	"Celebi": {
 		"Hex Maniac Celine": {
             level: 96,
-            item: "Miracle Seed",
+            item: "Hard Stone",
             moves: ["Giga Drain", "Psychic", "Ancient Power", "Hidden Power Fire"],
 			nature: "Lax",
         },
@@ -3933,7 +3933,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		},
 		"Guitarist Eddie": {
             level: 97,
-            item: "Lum Berry",
+            item: "Focus Band",
             moves: ["Psycho Boost", "Blizzard", "Sing", "Calm Mind"],
             nature: "Modest",
         },
@@ -6749,7 +6749,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 76,
 			item: "Lum Berry",
 			moves: ["Thunder", "Surf", "Extreme Speed", "Sing"],
-			nature: "Careful",
+			nature: "Naive",
 		},
 		"Cooltrainer Olivia": {
 			level: 75,
@@ -7601,16 +7601,22 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Calm Mind", "Psychic", "Hydro Pump", "Slack Off"],
 			nature: "Naive",
 		},
+		"Aqua Admin Shelly #2": {
+			level: 76,
+			item: "Lum Berry",
+			moves: ["Hydro Pump", "Thunder", "Psycho Boost", "Ice Beam"],
+			nature: "Lonely",
+		},
 		"Hex Maniac Celine": {
             level: 96,
-            item: "Leftovers",
-            moves: ["Hydro Pump", "Psychic", "Fire Blast", "Ice Beam"],
+            item: "Quick Claw",
+            moves: ["Hydro Pump", "Psycho Boost", "Fire Blast", "Ice Beam"],
             nature: "Sassy",
         },
 		"Champion Gongas": {
 			level: 100,
 			item: "Lum Berry",
-			moves: ["Thunder Wave", "Surf", "Psychic", "Earthquake"],
+			moves: ["Slack Off", "Water Spout", "Psycho Boost", "Earthquake"],
 			nature: "Modest",
 		},
 	},
@@ -7937,12 +7943,6 @@ var CUSTOMHACKSETDEX_EKK = {
             moves: ["Skill Swap", "Psychic", "Hydro Pump", "Thunder"],
             nature: "Mild",
         },
-		"Aqua Admin Shelly #2": {
-			level: 76,
-			item: "Lum Berry",
-			moves: ["Hydro Pump", "Thunder", "Psychic", "Ice Beam"],
-			nature: "Timid",
-		},
 		"Triathlete Brianna": {
 			level: 75,
 			item: "Lum Berry",
@@ -8296,7 +8296,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 100,
 			item: "Leftovers",
 			moves: [
-				"Hidden Power Ghost",
+				"Megahorn",
 				"Double-Edge",
 				"Earthquake",
 				"Shadow Ball",
@@ -8721,7 +8721,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			level: 76,
 			item: "Leftovers",
 			moves: ["Sing", "Muddy Water", "Ice Beam", "Hidden Power Grass"],
-			nature: "Adamant",
+			nature: "Rash",
 		},
 		"Expert Annika": {
 			level: 75,

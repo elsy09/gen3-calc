@@ -1253,7 +1253,7 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	"Aqua Admin Shelly #2": [
 		"Lapras",
 		"Ludicolo",
-		"Starmie",
+		"Slowking",
 		"Raichu",
 		"Dragonite",
 		"Vaporeon",
