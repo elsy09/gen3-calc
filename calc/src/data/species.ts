@@ -4772,6 +4772,7 @@ const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
   Ariados: { abilities: { 0: "Swarm" } },
   Natu: { abilities: { 0: "Synchronize" } },
   Xatu: { abilities: { 0: "Synchronize" } },
+  Slowking: { abilities: { 0: "Rock Head" } },
   Entei: { abilities: { 0: "Serene Grace" } },
   Spinda: { abilities: { 0: "Inner Focus" } },
   Cacturne: { abilities: { 0: "Chlorophyll" } },
