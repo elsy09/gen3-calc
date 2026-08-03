@@ -1461,7 +1461,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Pokémon Trainer May #3 [Swampert]": {
 			level: 53,
 			item: "Lum Berry",
-			moves: ["Thunder", "Water Pulse", "Return", "Ice Beam"],
+			moves: ["Thunder", "Hidden Power Water", "Return", "Ice Beam"],
 			nature: "Rash",
 		},
 		"Pokémon Trainer May #3 [Blaziken]": {
@@ -8125,7 +8125,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Pokémon Trainer May #3 [Swampert]": {
 			item: "Lum Berry",
 			level: 54,
-			moves: ["Muddy Water", "Earthquake", "Ice Beam", "Attract"],
+			moves: ["Muddy Water", "Earthquake", "Blizzard", "Attract"],
 			nature: "Rash",
 		},
 		"Pokémon Trainer May #4 [Swampert]": {
