@@ -4707,6 +4707,11 @@ const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
     bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 95 },
     expYield: 209,
   },
+  Swampert: {
+    abilities: { 0: "Swift Swim" },
+    bs: { hp: 100, at: 115, df: 90, sa: 90, sd: 90, sp: 65 },
+    expYield: 210,
+  },
   Girafarig: {
     abilities: { 0: "Inner Focus" },
     bs: { hp: 100, at: 90, df: 70, sa: 105, sd: 70, sp: 85 },
