@@ -6475,7 +6475,7 @@ var CUSTOMHACKSETDEX_EKK = {
 		"Not Champion Story": {
 			level: 100,
 			item: "Lum Berry",
-			moves: ["Tail Glow", "Hydro Pump", "Thunder"],
+			moves: ["Tail Glow", "Hydro Pump", "Thunder", "Ice Beam"],
 			nature: "Modest",
 		},
 		"Champion ywt1": {
