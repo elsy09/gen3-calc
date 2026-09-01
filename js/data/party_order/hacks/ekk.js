@@ -1046,14 +1046,6 @@ var CUSTOMHACKPARTYORDER_EKK = {
 		"Jolteon",
 		"Snorlax",
 	],
-	"Team Aqua Grunt #9 @ Aqua Hideout":[
-        "Feraligatr",
-		"Houndoom",
-		"Qwilfish",
-		"Togetic",
-		"Sableye",
-		"Mew",
-	],
 	"Team Aqua Grunt #2 @ Aqua Hideout": [
 		"Cloyster",
 		"Ludicolo",
@@ -1250,6 +1242,14 @@ var CUSTOMHACKPARTYORDER_EKK = {
 		"Politoed",
 		"Kingdra",
 	],
+		"Team Aqua Grunt #6 @ Seafloor Cavern":[
+        "Feraligatr",
+		"Houndoom",
+		"Qwilfish",
+		"Togetic",
+		"Sableye",
+		"Mew",
+	],
 	"Aqua Admin Shelly #2": [
 		"Lapras",
 		"Ludicolo",
@@ -1304,14 +1304,6 @@ var CUSTOMHACKPARTYORDER_EKK = {
 		"Walrein",
 		"Ampharos",
 	],
-	"Pokéfan Bethany": [
-		"Jolteon",
-		"Politoed",
-		"Clefable",
-		"Meganium",
-		"Dewgong",
-		"Quagsire",
-	],
 	"Triathlete Brianna": [
 		"Electrode",
 		"Octillery",
@@ -1319,6 +1311,14 @@ var CUSTOMHACKPARTYORDER_EKK = {
 		"Golduck",
 		"Magneton",
 		"Starmie",
+	],
+	"Pokéfan Bethany": [
+		"Jolteon",
+		"Politoed",
+		"Clefable",
+		"Meganium",
+		"Dewgong",
+		"Quagsire",
 	],
 	"Battle Girl Crissy": [
 		"Medicham",
