@@ -191,7 +191,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Relaxed",
 		},
 		"Triathlete Geraldine": {
-			level: 37,
+			level: 38,
 			item: "Leftovers",
 			moves: ["Flamethrower", "Earthquake", "Dragon Claw", "Aerial Ace"],
 			nature: "Naive",
@@ -208,7 +208,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Dragon Claw", "Ice Beam", "Aerial Ace", "Earthquake"],
 		},
 		"Bird Keeper Jared": {
-			level: 53,
+			level: 55,
 			item: "Lum Berry",
 			moves: ["Sing", "Dragon Dance", "Earthquake", "Sky Attack"],
 			nature: "Lonely",
@@ -576,7 +576,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Hydro Pump", "Double-Edge", "Hidden Power Ghost", "Blizzard"],
 			nature: "Jolly",
@@ -654,7 +654,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "King's Rock",
 			moves: [
 				"Thunder Wave",
@@ -729,7 +729,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Sleep Powder", "Giga Drain", "Synthesis", "Double-Edge"],
 		},
 		"Aroma Lady Colette": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: [
 				"Sleep Powder",
@@ -802,7 +802,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Gentle",
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Mirror Coat", "Ice Beam", "Hyper Beam", "Surf"],
 			nature: "Impish",
@@ -871,7 +871,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Pokémon Ranger Flint": {
-			level: 52,
+			level: 53,
 			item: "Lum Berry",
 			moves: [
 				"Sky Uppercut",
@@ -919,7 +919,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Blissey: {
 		"Aroma Lady Colette": {
-			level: 37,
+			level: 38,
 			item: "Leftovers",
 			moves: ["Flamethrower", "Solar Beam", "Ice Beam", "Thunderbolt"],
 			nature: "Adamant",
@@ -978,7 +978,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Spore", "Focus Punch", "Mach Punch"],
 		},
 		"Pokémon Breeder Humberto": {
-			level: 51,
+			level: 53,
 			item: "Quick Claw",
 			moves: ["Spore", "Sky Uppercut", "Hidden Power Ghost", "Giga Drain"],
 			nature: "Lax",
@@ -1026,9 +1026,9 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Camper Branden": {
-            level: 45,
+            level: 47,
             item: "Leftovers",
-            moves: ["Leaf Blade", "Crunch", "Pursuit", "Superpower"],
+            moves: ["Leaf Blade", "Crunch", "Protect", "Superpower"],
             nature: "Naive",
         },
 		"Champion Symes": {
@@ -1063,13 +1063,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Kindler Jeff": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Overheat", "Earthquake", "Explosion", "Rock Slide"],
 			nature: "Lonely",
 		},
 		"Ruin Maniac Eli": {
-			level: 39,
+			level: 40,
 			item: "Lum Berry",
 			moves: ["Earthquake", "Heat Wave", "Rock Slide", "Solar Beam"],
 			nature: "Sassy",
@@ -1230,7 +1230,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lonely",
 		},
 		"Dragon Tamer Sora": {
-			level: 53,
+			level: 54,
 			item: "Lum Berry",
 			moves: ["Earthquake", "Fire Blast", "Thunder Punch", "Dragon Claw"],
 			nature: "Modest",
@@ -1388,7 +1388,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Ninja Boy Edwardo": {
-			level: 51,
+			level: 53,
 			item: "Bright Powder",
 			moves: ["Earthquake", "Rock Slide", "Ice Beam", "Psychic"],
 			nature: "Impish",
@@ -1447,7 +1447,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Beauty Danielle": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: ["Flamethrower", "Solar Beam", "Tri Attack", "Ice Beam"],
 			nature: "Timid",
@@ -1670,7 +1670,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hasty",
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Crabhammer", "X-scissors", "Crunch", "Hidden Power Ground"],
 		},
@@ -1784,7 +1784,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Rain Dance", "Surf", "Ice Beam", "Body Slam"],
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Surf", "Drill Run", "Blizzard", "Ice Shard"],
 			nature: "Gentle",
@@ -1839,7 +1839,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			],
 		},
 		"Triathlete Jace": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Drill Peck", "Tri Attack", "Quick Attack", "Steel Wing"],
 			nature: "Impish",
@@ -1861,7 +1861,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Drill Peck", "Hyper Beam", "Steel Wing", "Body Slam"],
 		},
 		"Pokémon Ranger Flint": {
-			level: 53,
+			level: 54,
 			item: "Lum Berry",
 			moves: [
 				"Quick Attack",
@@ -1955,7 +1955,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Dragonite: {
 		"Picnicker Celia": {
-            level: 45,
+            level: 46,
             item: "Leftovers",
             moves: ["Bind"],
             nature: "Relaxed",
@@ -1972,7 +1972,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Salac Berry",
 			moves: ["Double-Edge", "Thunder", "Fire Blast", "Hydro Pump"],
 		},
@@ -2096,7 +2096,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Aerial Ace", "Dig", "Rock Tomb", "Tri Attack"],
 		},
 		"Triathlete Jace": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Earthquake", "Sludge Bomb", "Rock Slide", "Tri Attack"],
 			nature: "Modest",
@@ -2159,7 +2159,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lax",
 		},
 		"Ninja Boy Edwardo": {
-			level: 50,
+			level: 52,
 			item: "Leftovers",
 			moves: ["Shadow Ball", "Brick Break", "Protect", "Toxic"],
 		},
@@ -2217,7 +2217,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Quiet",
 		},
 		"Expert Keegan": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Fire Punch", "Ice Punch", "Thunderbolt", "Cross Chop"],
 			nature: "Lonely",
@@ -2395,7 +2395,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Adamant",
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Sleep Powder", "Explosion", "Psychic", "Giga Drain"],
 			nature: "Sassy",
@@ -2477,7 +2477,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Hyper Voice", "Flamethrower", "Extrasensory", "Earthquake"],
 		},
 		"Ruin Maniac Eli": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Overheat", "Hyper Voice", "Earthquake", "Ice Beam"],
 			nature: "Lax",
@@ -2633,7 +2633,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			],
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "King's Rock",
 			moves: ["Scary Face", "Waterfall", "Earthquake", "Ice Beam"],
 			nature: "Hasty",
@@ -2644,8 +2644,8 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Dragon Dance", "Earthquake", "Ancient Power", "Ice Beam"],
 			nature: "Naive",
 		},
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 70,
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 76,
             item: "Leftovers",
             moves: ["Hydro Pump", "Dragon Dance", "Ancient Power", "X-scissors"],
             nature: "Jolly",
@@ -2683,7 +2683,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Beauty Danielle": {
-			level: 39,
+			level: 40,
 			item: "Lum Berry",
 			moves: ["Heat Wave", "Solar Beam", "Quick Attack", "Double-Edge"],
 			nature: "Impish",
@@ -3081,13 +3081,13 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Gligar: {
 		"Camper Branden": {
-            level: 45,
+            level: 46,
             item: "Lum Berry",
-            moves: ["Earth Power", "Aerial Ace", "Ancient Power", "Swords Dance"],
+            moves: ["Earth Power", "Detect", "Ancient Power", "Swords Dance"],
             nature: "Mild",
         },
 		"Pokémon Ranger Flint": {
-			level: 53,
+			level: 54,
 			item: "Lum Berry",
 			moves: ["Earthquake", "Rock Slide", "Aerial Ace", "Quick Attack"],
 			nature: "Sassy",
@@ -3125,7 +3125,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Golduck: {
 		"Pokémon Breeder Humberto": {
-			level: 52,
+			level: 54,
 			item: "Lum Berry",
 			moves: ["Surf", "Ice Beam", "Hypnosis", "Hidden Power Grass"],
 		},
@@ -3375,7 +3375,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Dragon Tamer Sora": {
-			level: 53,
+			level: 54,
 			item: "Bright Powder",
 			moves: ["Earthquake", "Bounce", "Hydro Pump", "Hidden Power Rock"],
 			nature: "Lax",
@@ -3474,7 +3474,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Expert Keegan": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: ["Fake Out", "Rock Slide", "Earthquake", "Force Palm"],
 			nature: "Lonely",
@@ -3523,7 +3523,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			},
 		},
 		"Pokémon Ranger Ashley": {
-			level: 51,
+			level: 53,
 			item: "Quick Claw",
 			moves: ["Megahorn", "Brick Break", "Rock Slide", "Hidden Power Ghost"],
 			nature: "Rash",
@@ -3667,7 +3667,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Modest",
 		},
 		"Expert Keegan": {
-			level: 39,
+			level: 40,
 			item: "Salac Berry",
 			moves: ["Overheat", "Crunch", "Pursuit", "Hidden Power Ice"],
 			nature: "Impish",
@@ -3683,16 +3683,16 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Heat Wave", "Solar Beam", "Crunch", "Pursuit"],
 			nature: "Sassy",
 		},
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 69,
-            item: "Black Glasses",
-            moves: ["Pursuit", "Fire Spin", "Will-O-Wisp", "Toxic"],
-        },
 		"Team Magma Grunt #2 @ Mossdeep Space Center": {
 			level: 73,
 			item: "Lum Berry",
 			moves: ["Pursuit", "Overheat", "Crunch", "Solar Beam"],
 		},
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 75,
+            item: "Black Glasses",
+            moves: ["Pursuit", "Fire Spin", "Will-O-Wisp", "Toxic"],
+        },
 		"Winstrate Victoria": {
             level: 100,
             item: "Lum Berry",
@@ -3909,7 +3909,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Perish Song", "Mean Look", "Protect", "Ice Beam"],
 		},
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Blizzard", "Psychic", "Hidden Power Water", "Fake Tears"],
 			nature: "Lonely",
@@ -4061,7 +4061,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Dragon Tamer Sora": {
-			level: 50,
+			level: 52,
 			item: "Leftovers",
 			moves: ["Ice Beam", "Dragon Breath", "Body Slam", "Hydro Pump"],
 		},
@@ -4213,7 +4213,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lax",
 		},
 		"Ninja Boy Edwardo": {
-			level: 50,
+			level: 52,
 			item: "Bright Powder",
 			moves: ["Thunderbolt", "Surf", "Confuse Ray", "Ice Beam"],
 			nature: "Brave",
@@ -4457,7 +4457,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Timid",
 		},
 		"Pokémon Ranger Ashley": {
-			level: 51,
+			level: 53,
 			item: "Leftovers",
 			moves: ["Fake Out", "Surf", "Giga Drain", "Ice Beam"],
 		},
@@ -4473,7 +4473,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Toxic", "Leech Seed", "Protect", "Ice Beam"],
 			nature: "Bold",
@@ -4721,19 +4721,19 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Kindler Jeff": {
-			level: 36,
+			level: 37,
 			item: "Charcoal",
 			moves: ["Fire Blast", "Thunder Punch", "Cross Chop", "Psychic"],
 			nature: "Lonely",
 		},
 		"Triathlete Geraldine": {
-			level: 39,
+			level: 40,
 			item: "Lum Berry",
 			moves: ["Heat Wave", "Cross Chop", "Thunder Punch", "Solar Beam"],
 			nature: "Lax",
 		},
 		"Bird Keeper Jared": {
-			level: 50,
+			level: 52,
 			item: "Lum Berry",
 			moves: [
 				"Fire Blast",
@@ -4847,7 +4847,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Jolly",
 		},
 		"Beauty Danielle": {
-			level: 38,
+			level: 39,
 			item: "Charcoal",
 			moves: ["Overheat", "Thunderbolt", "Crunch", "Thunder Wave"],
 			nature: "Calm",
@@ -5351,8 +5351,8 @@ var CUSTOMHACKSETDEX_EKK = {
 		},
 	},
 	Mew: {
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 70,
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 76,
             item: "Lum Berry",
             moves: ["Hydro Pump", "Psychic", "Superpower", "Calm Mind"],
             nature: "Careful",
@@ -5461,7 +5461,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Attract", "Body Slam", "Earthquake", "Milk Drink"],
 		},
@@ -5608,7 +5608,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Psychic", "Fake Out", "Thunder", "Signal Beam"],
 			nature: "Lax",
@@ -5634,7 +5634,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Explosion", "Giga Drain", "Shadow Ball", "Sludge Bomb"],
 			nature: "Naive",
@@ -5654,7 +5654,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Sassy",
 		},
 		"Pokémaniac Axle": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: ["Megahorn", "Fire Blast", "Ice Beam", "Earthquake"],
 			nature: "Careful",
@@ -5678,7 +5678,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Careful",
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: ["Surf", "Fire Blast", "Earthquake", "Thunder"],
 			nature: "Quiet",
@@ -5731,7 +5731,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Nidoqueen: {
 		"Triathlete Geraldine": {
-			level: 37,
+			level: 38,
 			item: "Leftovers",
 			moves: ["Flamethrower", "Earthquake", "Ice Beam", "Poison Fang"],
 			nature: "Lonely",
@@ -5889,7 +5889,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Hypnosis", "Confuse Ray", "Substitute", "Flamethrower"],
 		},
 		"Kindler Jeff": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Overheat", "Solar Beam", "Quick Attack", "Extrasensory"],
 			nature: "Modest",
@@ -5954,7 +5954,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Noctowl: {
 		"Pokémon Ranger Flint": {
-			level: 53,
+			level: 55,
 			item: "Leftovers",
 			moves: ["Hypnosis", "Double-Edge", "Sky Attack", "Hidden Power Water"],
 		},
@@ -5986,7 +5986,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naughty",
 		},
 		"Expert Keegan": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: ["Fire Blast", "Ice Beam", "Octazooka", "Body Slam"],
 			nature: "Jolly",
@@ -6085,7 +6085,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Pelipper: {
 		"Bird Keeper Jared": {
-			level: 52,
+			level: 54,
 			item: "Bright Powder",
 			moves: ["Hydro Pump", "Ice Beam", "Hidden Power Electric", "Surf"],
 			nature: "Lax",
@@ -6118,7 +6118,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Pidgeot: {
 		"Pokémon Ranger Ashley": {
-			level: 53,
+			level: 55,
 			item: "Leftovers",
 			moves: [
 				"Sky Attack",
@@ -6206,12 +6206,12 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Piloswine: {
 		"Picnicker Celia": {
-            level: 45,
+            level: 46,
             item: "Never-Melt Ice",
             moves: ["Earth Power", "Ancient Power", "Ice Beam", "Icy Wind"],
         },
 		"Pokémon Breeder Humberto": {
-			level: 50,
+			level: 52,
 			item: "Lum Berry",
 			moves: ["Earthquake", "Ice Shard", "Ice Beam", "Ancient Power"],
 			nature: "Brave",
@@ -6446,7 +6446,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Tri Attack", "Thunder", "Hidden Power Water", "Recover"],
 		},
 		"Pokémon Breeder Humberto": {
-			level: 52,
+			level: 54,
 			item: "Leftovers",
 			moves: [
 				"Thunder Wave",
@@ -6595,11 +6595,6 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Explosion"],
 			nature: "Adamant",
 		},
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 69,
-            item: "Choice Band",
-            moves: ["Explosion", "Spikes"],
-        },
 		"Team Aqua Grunt #1 @ Route 124": {
 			level: 69,
 			item: "Lum Berry",
@@ -6612,6 +6607,11 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Substitute", "Explosion", "Sludge Bomb", "Surf"],
 			nature: "Mild",
 		},
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 75,
+            item: "Choice Band",
+            moves: ["Explosion", "Spikes"],
+        },
 		"Swimmerm Richard": {
 			level: 67,
 			moves: ["Hydro Pump", "Toxic", "Gunk Shot", "Explosion"],
@@ -6728,7 +6728,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Brave",
 		},
 		"Pokémon Ranger Ashley": {
-			level: 50,
+			level: 52,
 			item: "Lum Berry",
 			moves: ["Thunderbolt", "Surf", "Hidden Power Flying", "Brick Break"],
 			nature: "Mild",
@@ -6800,13 +6800,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Blaze Kick", "Quick Attack", "Iron Tail", "Body Slam"],
 		},
 		"Aroma Lady Colette": {
-			level: 39,
+			level: 40,
 			item: "Leftovers",
 			moves: ["Heat Wave", "Solar Beam", "Wild Charge", "Hypnosis"],
 			nature: "Bold",
 		},
 		"Triathlete Jace": {
-			level: 39,
+			level: 40,
 			item: "Lum Berry",
 			moves: ["Overheat", "Drill Run", "Solar Beam", "Wild Charge"],
 			nature: "Calm",
@@ -6937,9 +6937,9 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Naive",
 		},
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Choice Band",
-			moves: ["Head Smash"],
+			moves: ["Head Smash", "Double-Edge", "Earthquake", "Superpower"],
 			nature: "Calm",
 		},
 		"Team Aqua Grunt #9 @ Mt. Pyre": {
@@ -6991,12 +6991,12 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Sableye: {
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
-			moves: ["Confuse Ray", "Shadow Sneak", "Brick Break", "Shadow Ball"],
+			moves: ["Crunch", "Shadow Sneak", "Brick Break", "Shadow Ball"],
 		},
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 69,
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 75,
             item: "Leftovers",
             moves: ["Shadow Ball", "Pursuit", "Mean Look", "Recover"],
             nature: "Rash",
@@ -7028,7 +7028,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Salamence: {
 		"Dragon Tamer Sora": {
-			level: 53,
+			level: 54,
 			item: "Leftovers",
 			moves: ["Aerial Ace", "Dragon Claw", "Earthquake", "Flamethrower"],
 		},
@@ -7134,7 +7134,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Dragon Tamer Sora": {
-			level: 50,
+			level: 52,
 			item: "Lum Berry",
 			moves: ["Dragon Claw", "Leaf Blade", "Thunder Punch", "Grass Whistle"],
 			nature: "Lax",
@@ -7241,7 +7241,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Quiet",
 		},
 		"Ninja Boy Edwardo": {
-			level: 53,
+			level: 55,
 			item: "Bright Powder",
 			moves: ["Signal Beam", "Air Slash", "Superpower", "Quick Attack"],
 			nature: "Lax",
@@ -7291,7 +7291,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Seviper: {
 		"Triathlete Jace": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: ["Solar Beam", "Flamethrower", "Poison Tail", "Earthquake"],
 			nature: "Gentle",
@@ -7303,7 +7303,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Hardy",
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "King's Rock",
 			moves: ["Glare", "Earthquake", "Giga Drain", "Poison Fang"],
 		},
@@ -7320,7 +7320,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Relaxed",
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Focus Band",
 			moves: ["Crunch", "Earthquake", "Poison Fang", "Surf"],
 			nature: "Timid",
@@ -7334,7 +7334,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Shedinja: {
 		"Dragon Tamer Sora": {
-			level: 50,
+			level: 55,
 			item: "Lum Berry",
 			moves: [
 				"Signal Beam",
@@ -7375,7 +7375,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Impish",
 		},
 		"Pokémon Ranger Flint": {
-			level: 52,
+			level: 53,
 			item: "Leftovers",
 			moves: ["Fake Out", "Brick Break", "Shadow Ball", "Giga Drain"],
 			nature: "Timid",
@@ -7456,7 +7456,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Jolly",
 		},
 		"Bird Keeper Jared": {
-			level: 53,
+			level: 55,
 			item: "Bright Powder",
 			moves: ["Spikes", "Flash Cannon", "Sky Attack", "Hidden Power Ground"],
 			nature: "Mild",
@@ -7491,7 +7491,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Earthquake", "Crush Claw", "Shadow Ball", "Superpower"],
 		},
 		"Pokémon Ranger Flint": {
-			level: 50,
+			level: 52,
 			item: "Choice Band",
 			moves: ["Hyper Beam"],
 		},
@@ -7544,7 +7544,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Slowbro: {
 		"Beauty Danielle": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: ["Psychic", "Flamethrower", "Earthquake", "Ice Beam"],
 		},
@@ -7580,12 +7580,12 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Slowking: {
 		"Pokémaniac Axle": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: ["Psychic", "Earthquake", "Ice Beam", "Flamethrower"],
 		},
 		"Team Aqua Grunt #3 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Quick Claw",
 			moves: ["Psychic", "Surf", "Signal Beam", "Earthquake"],
 		},
@@ -7798,7 +7798,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Gentle",
 		},
 		"Ruin Maniac Eli": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Overheat", "Solar Beam", "Ancient Power", "Earthquake"],
 			nature: "Impish",
@@ -7872,7 +7872,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Confuse Ray", "Body Slam", "Earthquake", "Shadow Ball"],
 		},
 		"Pokémon Ranger Ashley": {
-			level: 50,
+			level: 52,
 			item: "Lum Berry",
 			moves: ["Hypnosis", "Return", "Hidden Power Flying", "Earthquake"],
 		},
@@ -7895,7 +7895,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Mild",
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Cosmic Power", "Recover", "Psychic", "Hydro Pump"],
 			nature: "Jolly",
@@ -8033,7 +8033,7 @@ var CUSTOMHACKSETDEX_EKK = {
             nature: "Rash",
         },
 		"Pokémon Ranger Ashley": {
-			level: 52,
+			level: 54,
 			item: "Quick Claw",
 			moves: [
 				"Earthquake",
@@ -8095,7 +8095,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Swampert: {
 		"Team Aqua Grunt #4 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Salac Berry",
 			moves: [
 				"Hydro Cannon",
@@ -8195,13 +8195,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Relaxed",
 		},
 		"Bird Keeper Jared": {
-			level: 51,
+			level: 53,
 			item: "Choice Band",
 			moves: ["Double-Edge", "Sky Attack", "Hidden Power Fighting"],
 			nature: "Timid",
 		},
 		"Pokémon Breeder Humberto": {
-			level: 54,
+			level: 55,
 			item: "Lum Berry",
 			moves: [
 				"Double-Edge",
@@ -8252,7 +8252,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Tangela: {
 		"Triathlete Geraldine": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: [
 				"Sleep Powder",
@@ -8407,8 +8407,8 @@ var CUSTOMHACKSETDEX_EKK = {
 			moves: ["Follow Me", "Soft-Boiled"],
 			nature: "Brave",
 		},
-		"Team Aqua Grunt #9 @ Aqua Hideout": {
-            level: 70,
+		"Team Aqua Grunt #6 @ Seafloor Cavern": {
+            level: 76,
             item: "Quick Claw",
             moves: ["Ancient Power", "Metronome", "Waterfall", "Soft-Boiled"],
             nature: "Impish",
@@ -8433,13 +8433,13 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Sassy",
 		},
 		"Kindler Jeff": {
-			level: 38,
+			level: 39,
 			item: "Leftovers",
 			moves: ["Overheat", "Solar Beam", "Body Slam", "Attract"],
 			nature: "Mild",
 		},
 		"Pokémaniac Axle": {
-			level: 39,
+			level: 40,
 			item: "Lum Berry",
 			moves: ["Heat Wave", "Solar Beam", "Earthquake", "Rock Slide"],
 			nature: "Mild",
@@ -8484,13 +8484,13 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Tropius: {
 		"Pokémaniac Axle": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: ["Solar Beam", "Earthquake", "Air Slash", "Hidden Power Fire"],
 			nature: "Brave",
 		},
 		"Bird Keeper Jared": {
-			level: 52,
+			level: 54,
 			item: "Bright Powder",
 			moves: ["Earthquake", "Ancient Power", "Leaf Blade", "Air Slash"],
 		},
@@ -8676,7 +8676,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lonely",
 		},
 		"Team Aqua Grunt #2 @ Mt. Pyre": {
-			level: 62,
+			level: 64,
 			item: "Scope Lens",
 			moves: [
 				"Scary Face",
@@ -8712,7 +8712,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Toxic", "Wrap", "Wish", "Muddy Water"],
 			nature: "Naughty",
@@ -8761,7 +8761,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Gentle",
 		},
 		"Ninja Boy Edwardo": {
-			level: 52,
+			level: 54,
 			item: "Lum Berry",
 			moves: [
 				"Sleep Powder",
@@ -8882,7 +8882,7 @@ var CUSTOMHACKSETDEX_EKK = {
 	},
 	Victreebel: {
 		"Expert Keegan": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: [
 				"Gunk Shot",
@@ -8974,7 +8974,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Lonely",
 		},
 		"Aroma Lady Colette": {
-			level: 38,
+			level: 39,
 			item: "Lum Berry",
 			moves: [
 				"Sleep Powder",
@@ -9202,7 +9202,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			],
 		},
 		"Ruin Maniac Eli": {
-			level: 37,
+			level: 38,
 			item: "Lum Berry",
 			moves: ["Flamethrower", "Sludge Bomb", "Will-O-Wisp", "Thunderbolt"],
 			nature: "Impish",
@@ -9394,7 +9394,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Rash",
 		},
 		"Team Aqua Grunt #8 @ Mt. Pyre": {
-			level: 63,
+			level: 64,
 			item: "Leftovers",
 			moves: ["Counter", "Mirror Coat", "Destiny Bond"],
 		},
@@ -9501,7 +9501,7 @@ var CUSTOMHACKSETDEX_EKK = {
 			nature: "Bold",
 		},
 		"Pokémon Breeder Humberto": {
-			level: 53,
+			level: 54,
 			item: "Lum Berry",
 			moves: ["Psychic", "Giga Drain", "Hidden Power Fire", "Signal Beam"],
 			nature: "Brave",
