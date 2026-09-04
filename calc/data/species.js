@@ -4736,7 +4736,7 @@ var EK = (0, util_1.extend)(true, {}, ADV, EK_PATCH);
 var EKK_PATCH = {
     Blaziken: {
         abilities: { 0: "Blaze" },
-        bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 95 },
+        bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 90 },
         expYield: 209
     },
     Swampert: {
