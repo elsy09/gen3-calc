@@ -4704,7 +4704,7 @@ const EK: { [name: string]: SpeciesData } = extend(true, {}, ADV, EK_PATCH);
 const EKK_PATCH: { [name: string]: DeepPartial<SpeciesData> } = {
   Blaziken: {
     abilities: { 0: "Blaze" },
-    bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 95 },
+    bs: { hp: 80, at: 120, df: 70, sa: 110, sd: 70, sp: 90 },
     expYield: 209,
   },
   Swampert: {
