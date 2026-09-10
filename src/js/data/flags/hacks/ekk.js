@@ -669,6 +669,7 @@ var CUSTOMHACKFLAGS_EKK = {
 		],
 		rain: [
 			// Route 119
+			"Bird Keeper Hugh",
 			"Pokémon Ranger Catherine",
 			"Pokémon Ranger Jackson",
 			"Bird Keeper Phil",
