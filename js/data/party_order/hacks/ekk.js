@@ -236,7 +236,7 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	"Camper Travis": ["Vigoroth"],
 	// Route 112 (South)
 	"Team Magma Grunt #1 @ Route 112": [
-		"Haunter",
+		"Gengar",
 		"Flareon",
 		"Kadabra",
 		"Cacturne",
@@ -550,16 +550,16 @@ var CUSTOMHACKPARTYORDER_EKK = {
 	"Bug Catcher Doug": ["Kakuna"],
 	"Bug Maniac Brent": ["Wurmple"],
 	"Fisherman Chris": ["Magikarp", "Tentacruel", "Feebas", "Sharpedo"],
-	"Bird Keeper Hugh": ["Dodrio", "Altaria", "Skarmory", "Swellow"],
+	"Bird Keeper Hugh": ["Skarmory", "Murkrow", "Gengar", "Dodrio"],
 	"Pokémon Ranger Catherine": [
 		"Manectric",
 		"Dewgong",
 		"Victreebel",
 		"Ursaring",
 	],
-	"Pokémon Ranger Jackson": ["Primeape", "Crawdaunt", "Jolteon", "Tauros"],
-	"Bird Keeper Phil": ["Fearow", "Xatu"],
-	"Parasol Lady Missy": ["Granbull", "Mawile"],
+	"Pokémon Ranger Jackson": ["Venusaur", "Machamp", "Glalie", "Grumpig", "Politoed"],
+	"Bird Keeper Phil": ["Slowking"],
+	"Parasol Lady Missy": ["Girafarig", "Clamperl", "Cacturne", "Masquerain", "Blastoise"],
 	// Weather Institute
 	"Team Aqua Grunt #1 @ Weather Institute": [
 		"Sharpedo",

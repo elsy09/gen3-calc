@@ -51,8 +51,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Team Magma Grunt #2 @ Route 112",
 	"Team Magma Grunt #3 @ Route 112",
 	// Route 112 (North)
-	"Team Magma Grunt #4 @ Route 112",
-	"Team Magma Grunt #5 @ Route 112",
 	// Route 111
 	// Route 113
 	"Pokémon Trainer Red",
@@ -103,8 +101,6 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Triathlete Randall",
 	"Leader Norman",
 	// Route 118
-	"Fisherman Wade",
-	"Fisherman Barny",
 	// Route 119
 	"Bird Keeper Hugh",
 	"Pokémon Ranger Catherine",
@@ -134,11 +130,7 @@ var CUSTOMHACKTRAINERNAMES_EKK = [
 	"Dragon Tamer Sora",
 	"Leader Winona",
 	// Route 120
-	"Cooltrainer Jerome",
-	"Cooltrainer Jennifer",
-	"Pokémon Ranger Jenna",
 	// Route 121
-	"Pokéfan Vanessa",
 	"Cooltrainer Cristin",
 	"Cooltrainer Marcel",
 	"Gentleman Walter",
